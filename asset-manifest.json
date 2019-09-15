@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2aca95b6.chunk.css",
-    "main.js": "/static/js/main.01afbbf8.chunk.js",
-    "main.js.map": "/static/js/main.01afbbf8.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.c90ce937.js",
-    "runtime~main.js.map": "/static/js/runtime~main.c90ce937.js.map",
-    "static/js/2.3e88a4b3.chunk.js": "/static/js/2.3e88a4b3.chunk.js",
-    "static/js/2.3e88a4b3.chunk.js.map": "/static/js/2.3e88a4b3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fd93255af49f5cfd3a7b60aa9f0704b1.js": "/precache-manifest.fd93255af49f5cfd3a7b60aa9f0704b1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2aca95b6.chunk.css.map": "/static/css/main.2aca95b6.chunk.css.map",
-    "static/media/App.styles.scss": "/static/media/background-default.d59bb1a1.jpg",
-    "static/media/card-alister.jpg": "/static/media/card-alister.c3bb77d6.jpg",
-    "static/media/card-cassandra.jpg": "/static/media/card-cassandra.2506966c.jpg",
-    "static/media/card-defender.jpg": "/static/media/card-defender.82ee34e9.jpg",
-    "static/media/card-mask.jpg": "/static/media/card-mask.db1b7222.jpg"
+    "main.css": "/choose-two/static/css/main.bd21760c.chunk.css",
+    "main.js": "/choose-two/static/js/main.01afbbf8.chunk.js",
+    "main.js.map": "/choose-two/static/js/main.01afbbf8.chunk.js.map",
+    "runtime~main.js": "/choose-two/static/js/runtime~main.c690c901.js",
+    "runtime~main.js.map": "/choose-two/static/js/runtime~main.c690c901.js.map",
+    "static/js/2.3e88a4b3.chunk.js": "/choose-two/static/js/2.3e88a4b3.chunk.js",
+    "static/js/2.3e88a4b3.chunk.js.map": "/choose-two/static/js/2.3e88a4b3.chunk.js.map",
+    "index.html": "/choose-two/index.html",
+    "precache-manifest.d38af922f203605c33564d3290d6a4f1.js": "/choose-two/precache-manifest.d38af922f203605c33564d3290d6a4f1.js",
+    "service-worker.js": "/choose-two/service-worker.js",
+    "static/css/main.bd21760c.chunk.css.map": "/choose-two/static/css/main.bd21760c.chunk.css.map",
+    "static/media/App.styles.scss": "/choose-two/static/media/background-default.d59bb1a1.jpg",
+    "static/media/card-alister.jpg": "/choose-two/static/media/card-alister.c3bb77d6.jpg",
+    "static/media/card-cassandra.jpg": "/choose-two/static/media/card-cassandra.2506966c.jpg",
+    "static/media/card-defender.jpg": "/choose-two/static/media/card-defender.82ee34e9.jpg",
+    "static/media/card-mask.jpg": "/choose-two/static/media/card-mask.db1b7222.jpg"
   }
 }
